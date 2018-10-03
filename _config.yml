@@ -19,7 +19,7 @@ resume-url: assets/Francesco-Rampazzo-CV.pdf
 url: https://chiccorampazzo.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /:year/:month/:title/
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-62563032-1'
