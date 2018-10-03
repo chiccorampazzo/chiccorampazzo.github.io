@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/Francesco-Rampazzo-CV.pdf
 
-url: https://chiccorampazzo.github.io
+url: https://francescorampazzo.com
 # your url: http://USERNAME.github.io
 
 permalink: /:year/:month/:title/
